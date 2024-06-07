@@ -1,0 +1,15 @@
+backend:
+  name: github
+  repo: sharaz1990/worksmartwithsharaz
+
+media_folder: "static/assets/uploads"
+public_folder: "/assets/uploads"
+
+collections:
+  - name: "posts"
+    label: "Posts"
+    folder: "content/posts"
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
