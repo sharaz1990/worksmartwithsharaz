@@ -3,7 +3,7 @@
  * The base configuration for WordPress
  *
  * The wp-config.php creation script uses this file during the installation.
- * You don't have to use the website, you can copy this file to "wp-config.php"
+ * You don't have to use the web site, you can copy this file to "wp-config.php"
  * and fill in the values.
  *
  * This file contains the following configurations:
@@ -11,28 +11,29 @@
  * * Database settings
  * * Secret keys
  * * Database table prefix
+ * * Localized language
  * * ABSPATH
  *
- * @link https://wordpress.org/documentation/article/editing-wp-config-php/
+ * @link https://wordpress.org/support/article/editing-wp-config-php/
  *
  * @package WordPress
  */
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'worksmartwithsharaz_db' );
+define( 'DB_NAME', 'local' );
 
 /** Database username */
 define( 'DB_USER', 'root' );
 
 /** Database password */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', 'root' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
 
 /** Database charset to use in creating database tables. */
-define( 'DB_CHARSET', 'utf8mb4' );
+define( 'DB_CHARSET', 'utf8' );
 
 /** The database collate type. Don't change this if in doubt. */
 define( 'DB_COLLATE', '' );
@@ -48,14 +49,16 @@ define( 'DB_COLLATE', '' );
  *
  * @since 2.6.0
  */
-define( 'AUTH_KEY',         '[Ur9yv<Vp@TtX7a*.S]iM:4 j+$(hJfBneZM5VL#f142:&6xUeVMDv38ESr5ssws' );
-define( 'SECURE_AUTH_KEY',  'esD:{OR3GI4BKdsG4j{ZHa+xqE}xERtez7~F};eSU<pryoYX:QBTyZhG/2/w:;Do' );
-define( 'LOGGED_IN_KEY',    'Xq[YYf&TDHydDvxd7|28;/_yS[+_O)y42zE4xtg4N24sDbCbFsj::NY 2-|h&Gp]' );
-define( 'NONCE_KEY',        '=I{-tQX!NpI~x70/ %e6Zojo>%uf(q.Pdwr.G,N?,Wqvq ,qTT4LC%].`RqPGu- ' );
-define( 'AUTH_SALT',        'bcx3+!5eS~qQL>7[s.hvoDwcfZs>)Rf0|#+ZSb`Qq$ggE$pSX7b8(8vBQa^&Vln#' );
-define( 'SECURE_AUTH_SALT', 'A5ZeA)9v_]Gx?|2]0N~6r*tkT$eEp]h{0b)LJ2q44MQ%<c;A1T92,|`B(v&+i+{,' );
-define( 'LOGGED_IN_SALT',   'L`Q8[z>oIE&fXkA9X}CW7(]&GS 5cF2#M[$l/VSXq|-y+hYVZrk(D;HbsB~}]B#b' );
-define( 'NONCE_SALT',       'C@7qY(1?w%hA +{?qI:GxI)-8?el!oL~3M6Akovm|}VSK*+Ze0,q(MtX76@j4=&m' );
+define( 'AUTH_KEY',          ';!a3~=#QKX7dpiZxB[wcj)X&t:&%cuN@hX/&gXK?Of^:FGi+p;P;{-}6n7L /2;{' );
+define( 'SECURE_AUTH_KEY',   'SYB5{c}u1D&NH[z48ej(lj U|dvGKE@sv@-vYJ0?_A&f+N,giKq:%bh;Xc.K8$qc' );
+define( 'LOGGED_IN_KEY',     '/?3]N^|e-XWhXv<~G`Jy^k3K66rh2choi/z!KxUQI}o6EjYWy{;Wc%LjS})6,YOH' );
+define( 'NONCE_KEY',         '*C*%9:=QX+x3i:ztedT|Xkp:9e4ezSzq5E|A3.vt9PFI>t0!3{9U#N}eg9VKqdTb' );
+define( 'AUTH_SALT',         '!L!_Z.;j.=jg*!B$:Oa3sQI5VSt{f:S_`_&BCw%;g<{%}ExcX6(HXUnVEDR5z6#v' );
+define( 'SECURE_AUTH_SALT',  '/K&bag+-=U;#G=HskV8hsx|L}m5BctA$Y!_7Uwb+D(dteo`>;kb4bU8P(]^/=)?6' );
+define( 'LOGGED_IN_SALT',    'JR19l&zCB&?5M)*B2pxo2 mJzy9dO5mMju~W:~R@R%Aa9Z-UM~~e-oxg~jj7aAP!' );
+define( 'NONCE_SALT',        '@D9e#0()UsrTB<!n38=^b<f1LhLscqR q*-g+4urPExt<P.]jr7Ku~[BY&g%x[bu' );
+define( 'WP_CACHE_KEY_SALT', '3IA!l~8#eH|(!jHU7H(6W/e}Eax/SHm9ZpPnP+_tOw z|}w.KWGCqM|Z>N<6~gH}' );
+
 
 /**#@-*/
 
@@ -67,6 +70,11 @@ define( 'NONCE_SALT',       'C@7qY(1?w%hA +{?qI:GxI)-8?el!oL~3M6Akovm|}VSK*+Ze0,
  */
 $table_prefix = 'wp_';
 
+
+/* Add any custom values between this line and the "stop editing" line. */
+
+
+
 /**
  * For developers: WordPress debugging mode.
  *
@@ -77,14 +85,13 @@ $table_prefix = 'wp_';
  * For information on other constants that can be used for debugging,
  * visit the documentation.
  *
- * @link https://wordpress.org/documentation/article/debugging-in-wordpress/
+ * @link https://wordpress.org/support/article/debugging-in-wordpress/
  */
-define( 'WP_DEBUG', false );
+if ( ! defined( 'WP_DEBUG' ) ) {
+	define( 'WP_DEBUG', false );
+}
 
-/* Add any custom values between this line and the "stop editing" line. */
-
-
-
+define( 'WP_ENVIRONMENT_TYPE', 'local' );
 /* That's all, stop editing! Happy publishing. */
 
 /** Absolute path to the WordPress directory. */
