@@ -1,0 +1,538 @@
+0000.001 (0) Opened log file at time: Fri, 07 Jun 2024 12:31:43 +0000 on http://localhost/worksmartwithsharaz
+0000.003 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.24.3 WP: 6.5.4 PHP: 8.2.12 (apache2handler, Windows NT HPPROBOOKX360G8 10.0 build 22631 (Windows 11) AMD64) MySQL: 10.4.32-MariaDB (max packet size=1048576) WPLANG: en_US Server: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 39.6M | 42M) multisite: N openssl: OpenSSL 3.0.11 19 Sep 2023 mcrypt: N LANG:  ZipArchive::addFile: N
+0000.006 (0) Free space on disk containing Updraft's temporary directory: 84397.6 MB
+0000.010 (0) Tasks: Backup files: 1 (schedule: manual) Backup DB: 1 (schedule: manual)
+0000.013 (0) Semaphore (fd, wp_options) being initialised
+0000.019 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.025 (0) Set semaphore last lock (fd) time to 2024-06-07 12:31:43
+0000.026 (0) Semaphore lock (fd) complete
+0000.034 (0) Backup run: resumption=0, nonce=6f79ff696144, file_nonce=6f79ff696144 begun at=1717763503 (0s ago), job type=backup
+0000.037 (0) Scheduling a resumption (1) after 300 seconds (1717763803) in case this run gets aborted
+0000.049 (0) Checking if we have a zip executable available
+0000.053 (0) Zip engine: ZipArchive (a.k.a. php-zip) is not available or is disabled (will use PclZip (much slower) if needed)
+0000.054 (0) Creation of backups of directories: beginning
+0000.061 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.776 (0) Total entities for the zip file: 280 directories, 1732 files (0 skipped as non-modified), 29.1 MB
+0000.779 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 29834.6 KB, split: 409600 KB)
+0000.824 (0) Zip: backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.862 (0) Zip: backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.909 (0) Zip: backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.961 (0) Zip: backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0001.008 (0) Zip: backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0001.051 (0) Zip: backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0001.088 (0) Zip: backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0001.125 (0) Zip: backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-plugins.zip.tmp: 800 files added (on-disk size: 0 KB)
+0001.162 (0) Zip: backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-plugins.zip.tmp: 900 files added (on-disk size: 0 KB)
+0001.199 (0) Zip: backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-plugins.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0001.241 (0) Zip: backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-plugins.zip.tmp: 1100 files added (on-disk size: 0 KB)
+0001.283 (0) Zip: backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-plugins.zip.tmp: 1200 files added (on-disk size: 0 KB)
+0001.326 (0) Zip: backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-plugins.zip.tmp: 1300 files added (on-disk size: 0 KB)
+0001.367 (0) Zip: backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-plugins.zip.tmp: 1400 files added (on-disk size: 0 KB)
+0001.413 (0) Zip: backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-plugins.zip.tmp: 1500 files added (on-disk size: 0 KB)
+0001.457 (0) Zip: backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-plugins.zip.tmp: 1600 files added (on-disk size: 0 KB)
+0001.501 (0) Zip: backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-plugins.zip.tmp: 1700 files added (on-disk size: 0 KB)
+0013.926 (0) Creating zip file manifest (backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-plugins.zip.list-temp.tmp)
+0013.935 (0) Successfully created zip file manifest (size: 154118)
+0014.019 (0) Created plugins zip (0) - 8798.8 KB in 14 s (630.6 KB/s) (sha1: 52ca7d334e070ebd3ad72a706d643487d7d4185a, sha256: b86383eacee66e99cd8f9b4ad72b9ff11d55a2cc7f84abcaabf54d3e26123da0)
+0014.025 (0) Cloud backup selection (1/1): email with instance (1/1) (last)
+0014.026 (0) Beginning dispatch of backup to remote (email)
+0014.028 (0) Email: backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-plugins.zip: email to: shara...
+0014.035 (0) An error occurred when sending a backup report email and/or backup file(s) via email (wp_mail_failed): Invalid address:  (From): wordpress@localhost
+0014.036 (0) Email: Mails were not sent successfully
+0014.037 (0) An error condition has occurred for the first time during this job
+0014.042 (0) Beginning creation of dump of themes (split every: 400 MB)
+0014.119 (0) Total entities for the zip file: 39 directories, 291 files (0 skipped as non-modified), 12.1 MB
+0014.122 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 12408.9 KB, split: 409600 KB)
+0014.151 (0) Zip: backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0014.179 (0) Zip: backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0017.594 (0) Creating zip file manifest (backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-themes.zip.list-temp.tmp)
+0017.598 (0) Successfully created zip file manifest (size: 20630)
+0017.697 (0) Created themes zip (0) - 11069 KB in 3.6 s (3032.9 KB/s) (sha1: 38e9fe2922ce1d297eb9678abe91bdbcd2f85719, sha256: 74e1cc4ad894428096360e7fd82c7062e0b6c496d86500ba3070f8b2987d41d1)
+0017.702 (0) Cloud backup selection (1/1): email with instance (1/1) (last)
+0017.704 (0) Beginning dispatch of backup to remote (email)
+0017.706 (0) Email: backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-themes.zip: email to: shara...
+0017.708 (0) An error occurred when sending a backup report email and/or backup file(s) via email (wp_mail_failed): Invalid address:  (From): wordpress@localhost
+0017.710 (0) Email: Mails were not sent successfully
+0017.714 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0017.716 (0) Looking for candidates to backup in: C:\xampp\htdocs\worksmartwithsharaz/wp-content/uploads
+0017.717 (0) finding files: 2024: adding to list (1)
+0017.718 (0) finding files: simply-static: adding to list (2)
+0017.720 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0017.727 (0) Total entities for the zip file: 4 directories, 1 files (0 skipped as non-modified), 0 MB
+0017.729 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 0.4 KB, split: 409600 KB)
+0017.776 (0) Creating zip file manifest (backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-uploads.zip.list-temp.tmp)
+0017.778 (0) Successfully created zip file manifest (size: 101)
+0017.785 (0) Created uploads zip (0) - 0.8 KB in 0.1 s (13.2 KB/s) (sha1: c3ad30cd69719d5c2e5f173d57cf6f1d7c685436, sha256: bc77183d72e7ca1981bf16a4ecc3c8e547fd8d4b14313ca893c093fb6e889f9a)
+0017.789 (0) Cloud backup selection (1/1): email with instance (1/1) (last)
+0017.790 (0) Beginning dispatch of backup to remote (email)
+0017.791 (0) Email: backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-uploads.zip: email to: shara...
+0017.793 (0) An error occurred when sending a backup report email and/or backup file(s) via email (wp_mail_failed): Invalid address:  (From): wordpress@localhost
+0017.794 (0) Email: Mails were not sent successfully
+0017.797 (0) No backup of mu-plugins: excluded by user's options
+0017.799 (0) Beginning backup of other directories found in the content directory (index: 0)
+0017.800 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0017.802 (0) Looking for candidates to backup in: C:\xampp\htdocs\worksmartwithsharaz/wp-content
+0017.803 (0) finding files: index.php: adding to list (1)
+0017.805 (0) finding files: plugins: skipping: this is the plugins directory
+0017.807 (0) finding files: themes: skipping: this is the themes directory
+0017.808 (0) finding files: updraft: skipping: this is the updraft directory
+0017.810 (0) finding files: upgrade: skipping: excluded by options
+0017.811 (0) finding files: uploads: skipping: this is the uploads directory
+0017.817 (0) Total entities for the zip file: 0 directories, 1 files (0 skipped as non-modified), 0 MB
+0017.819 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 0 KB, split: 409600 KB)
+0017.832 (0) Creating zip file manifest (backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-others.zip.list-temp.tmp)
+0017.835 (0) Successfully created zip file manifest (size: 43)
+0017.842 (0) Created others zip (0) - 0.1 KB in 0 s (5.6 KB/s) (sha1: af98ff54a51efb7df2d7748b2adff4a0f86e83d8, sha256: 54620286dd7d69a3b21052ef7c338299c8f0d831c614d3da905c86ccc6f7c100)
+0017.846 (0) Cloud backup selection (1/1): email with instance (1/1) (last)
+0017.847 (0) Beginning dispatch of backup to remote (email)
+0017.848 (0) Email: backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-others.zip: email to: shara...
+0017.850 (0) An error occurred when sending a backup report email and/or backup file(s) via email (wp_mail_failed): Invalid address:  (From): wordpress@localhost
+0017.851 (0) Email: Mails were not sent successfully
+0017.859 (0) Saving backup status to database (elements: 8)
+0017.862 (0) Beginning creation of database dump (WordPress DB)
+0017.866 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+0017.869 (0) Testing potential mysqldump binary: C:\Program Files\MySQL\MySQL Workbench 8.0\mysqldump.exe
+0017.985 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `wp_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!50503 SET character_set_client = utf8mb4 */;\n (truncated - 1462 bytes total)
+0017.988 (0) Working binary mysqldump found: "C:\Program Files\MySQL\MySQL Workbench 8.0\mysqldump.exe"
+0018.022 (0) Table wp_options: Total expected rows (via COUNT): 205
+0018.023 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0018.068 (0) Table wp_options: Rows added in this batch (next record: 218): 201 (uncompressed bytes in this segment=886555) in 0.07 seconds
+0018.080 (0) Table wp_options: finishing file(s) (2, 246.3 KB)
+0018.093 (0) Table wp_users: Total expected rows (via COUNT): 1
+0018.094 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0018.097 (0) Table wp_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1220) in 0.01 seconds
+0018.104 (0) Table wp_users: finishing file(s) (2, 0.6 KB)
+0018.120 (0) Table wp_usermeta: Total expected rows (via COUNT): 19
+0018.121 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0018.124 (0) Table wp_usermeta: Rows added in this batch (next record: 19): 19 (uncompressed bytes in this segment=1704) in 0.02 seconds
+0018.132 (0) Table wp_usermeta: finishing file(s) (2, 0.9 KB)
+0018.147 (0) Table wp_commentmeta: Total expected rows (via COUNT): 0
+0018.150 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=634) in 0.01 seconds
+0018.159 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0018.175 (0) Table wp_comments: Total expected rows (via COUNT): 1
+0018.176 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0018.180 (0) Table wp_comments: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1885) in 0.02 seconds
+0018.188 (0) Table wp_comments: finishing file(s) (2, 0.7 KB)
+0018.204 (0) Table wp_links: Total expected rows (via COUNT): 0
+0018.207 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1027) in 0.01 seconds
+0018.213 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0018.229 (0) Table wp_postmeta: Total expected rows (via COUNT): 2
+0018.231 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0018.234 (0) Table wp_postmeta: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=739) in 0.02 seconds
+0018.243 (0) Table wp_postmeta: finishing file(s) (2, 0.4 KB)
+0018.260 (0) Table wp_posts: Total expected rows (via COUNT): 5
+0018.261 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0018.264 (0) Table wp_posts: Rows added in this batch (next record: 5): 5 (uncompressed bytes in this segment=10040) in 0.02 seconds
+0018.272 (0) Table wp_posts: finishing file(s) (2, 3 KB)
+0018.286 (0) Table wp_term_relationships: Total expected rows (approximate): 1
+0018.289 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 1 (uncompressed bytes in this segment=696) in 0.01 seconds
+0018.296 (0) Table wp_term_relationships: finishing file(s) (2, 0.4 KB)
+0018.312 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 1
+0018.314 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0018.317 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=858) in 0.02 seconds
+0018.326 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.4 KB)
+0018.342 (0) Table wp_termmeta: Total expected rows (via COUNT): 0
+0018.345 (0) Table wp_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=607) in 0.02 seconds
+0018.354 (0) Table wp_termmeta: finishing file(s) (2, 0.4 KB)
+0018.369 (0) Table wp_terms: Total expected rows (via COUNT): 1
+0018.370 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0018.374 (0) Table wp_terms: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=672) in 0.02 seconds
+0018.381 (0) Table wp_terms: finishing file(s) (2, 0.4 KB)
+0018.395 (0) Table wp_simply_static_pages: Total expected rows (via COUNT): 0
+0018.398 (0) Table wp_simply_static_pages: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1535) in 0.01 seconds
+0018.406 (0) Table wp_simply_static_pages: finishing file(s) (2, 0.5 KB)
+0018.407 (0) PHP event: code E_WARNING: filemtime(): stat failed for C:\xampp\htdocs\worksmartwithsharaz/wp-content/updraft/backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-db.gz (line 1925, C:\xampp\htdocs\worksmartwithsharaz\wp-content\plugins\updraftplus\backup.php)
+0018.410 (0) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-db-table-wp_options.table.tmpr219.gz (1/13/fopen): adding to final database dump
+0018.419 (0) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-db-table-wp_options.table.gz (2/13/fopen): adding to final database dump
+0018.421 (0) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-db-table-wp_users.table.tmpr2.gz (3/13/fopen): adding to final database dump
+0018.422 (0) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-db-table-wp_users.table.gz (4/13/fopen): adding to final database dump
+0018.423 (0) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-db-table-wp_usermeta.table.tmpr20.gz (5/13/fopen): adding to final database dump
+0018.425 (0) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-db-table-wp_usermeta.table.gz (6/13/fopen): adding to final database dump
+0018.426 (0) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-db-table-wp_commentmeta.table.tmpr0.gz (7/13/fopen): adding to final database dump
+0018.427 (0) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-db-table-wp_commentmeta.table.gz (8/13/fopen): adding to final database dump
+0018.429 (0) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-db-table-wp_comments.table.tmpr2.gz (9/13/fopen): adding to final database dump
+0018.430 (0) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-db-table-wp_comments.table.gz (10/13/fopen): adding to final database dump
+0018.431 (0) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-db-table-wp_links.table.tmpr0.gz (11/13/fopen): adding to final database dump
+0018.432 (0) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-db-table-wp_links.table.gz (12/13/fopen): adding to final database dump
+0018.434 (0) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-db-table-wp_postmeta.table.tmpr3.gz (13/13/fopen): adding to final database dump
+0018.435 (0) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-db-table-wp_postmeta.table.gz (14/13/fopen): adding to final database dump
+0018.437 (0) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-db-table-wp_posts.table.tmpr6.gz (15/13/fopen): adding to final database dump
+0018.438 (0) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-db-table-wp_posts.table.gz (16/13/fopen): adding to final database dump
+0018.440 (0) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-db-table-wp_term_relationships.table.tmpr100001.gz (17/13/fopen): adding to final database dump
+0018.441 (0) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-db-table-wp_term_relationships.table.gz (18/13/fopen): adding to final database dump
+0018.443 (0) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-db-table-wp_term_taxonomy.table.tmpr2.gz (19/13/fopen): adding to final database dump
+0018.444 (0) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-db-table-wp_term_taxonomy.table.gz (20/13/fopen): adding to final database dump
+0018.445 (0) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-db-table-wp_termmeta.table.tmpr0.gz (21/13/fopen): adding to final database dump
+0018.446 (0) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-db-table-wp_termmeta.table.gz (22/13/fopen): adding to final database dump
+0018.448 (0) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-db-table-wp_terms.table.tmpr2.gz (23/13/fopen): adding to final database dump
+0018.449 (0) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-db-table-wp_terms.table.gz (24/13/fopen): adding to final database dump
+0018.450 (0) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-db-table-wp_simply_static_pages.table.tmpr0.gz (25/13/fopen): adding to final database dump
+0018.452 (0) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-db-table-wp_simply_static_pages.table.gz (26/13/fopen): adding to final database dump
+0018.484 (0) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-db.gz: finished writing out complete database file (255.3 KB)
+0018.498 (0) Total database tables backed up: 13 (backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-db.gz, size: 261588, sha1: ed9e98956da395ea85e697585600e347ea0d31af, sha256: 343e21d486495a7183a5c39d718cd3ea1610919e1ebfb3f7cd58d16f788de099)
+0018.505 (0) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0018.507 (0) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0018.508 (0) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0018.509 (0) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-others.zip: others: This file has not yet been successfully uploaded: will queue
+0018.511 (0) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-db.gz: db: This file has not yet been successfully uploaded: will queue
+0018.512 (0) Saving backup history. Total backup size: 19.7 MB
+0018.515 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0018.519 (0) Cloud backup selection (1/1): email with instance (1/1) (last)
+0018.520 (0) Beginning dispatch of backup to remote (email)
+0018.522 (0) Email: backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-plugins.zip: email to: shara...
+0018.523 (0) An error occurred when sending a backup report email and/or backup file(s) via email (wp_mail_failed): Invalid address:  (From): wordpress@localhost
+0018.525 (0) Email: Mails were not sent successfully
+0018.526 (0) Email: backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-themes.zip: email to: shara...
+0018.527 (0) An error occurred when sending a backup report email and/or backup file(s) via email (wp_mail_failed): Invalid address:  (From): wordpress@localhost
+0018.529 (0) Email: Mails were not sent successfully
+0018.530 (0) Email: backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-uploads.zip: email to: shara...
+0018.531 (0) An error occurred when sending a backup report email and/or backup file(s) via email (wp_mail_failed): Invalid address:  (From): wordpress@localhost
+0018.533 (0) Email: Mails were not sent successfully
+0018.534 (0) Email: backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-others.zip: email to: shara...
+0018.536 (0) An error occurred when sending a backup report email and/or backup file(s) via email (wp_mail_failed): Invalid address:  (From): wordpress@localhost
+0018.537 (0) Email: Mails were not sent successfully
+0018.539 (0) Email: backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-db.gz: email to: shara...
+0018.540 (0) An error occurred when sending a backup report email and/or backup file(s) via email (wp_mail_failed): Invalid address:  (From): wordpress@localhost
+0018.542 (0) Email: Mails were not sent successfully
+0018.545 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0018.546 (0) Number of backup sets in history: 1; groups (db): 1
+0018.547 (0) Examining (for databases) backup set with group_id=0, nonce=6f79ff696144, datestamp=1717763503 (Jun 07 2024 12:31:43)
+0018.549 (0) This backup set is the backup set just made, so will not be deleted.
+0018.549 (0) Number of backup sets in history: 1; groups (files): 1
+0018.550 (0) Examining (for files) backup set with nonce=6f79ff696144, datestamp=1717763503 (Jun 07 2024 12:31:43)
+0018.550 (0) This backup set is the backup set just made, so will not be deleted.
+0018.551 (0) This backup set is the backup set just made, so will not be deleted.
+0018.551 (0) This backup set is the backup set just made, so will not be deleted.
+0018.551 (0) This backup set is the backup set just made, so will not be deleted.
+0018.551 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0018.552 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0018.555 (0) Resume backup (6f79ff696144, 0): finish run
+0018.558 (0) Decremented the semaphore (fd) by 1
+0018.561 (0) Semaphore (fd) unlocked
+0018.562 (0) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0018.565 (0) The backup has not finished; a resumption is scheduled
+0301.539 (1) Opened log file at time: Fri, 07 Jun 2024 12:36:44 +0000 on http://localhost/worksmartwithsharaz
+0301.541 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.24.3 WP: 6.5.4 PHP: 8.2.12 (apache2handler, Windows NT HPPROBOOKX360G8 10.0 build 22631 (Windows 11) AMD64) MySQL: 10.4.32-MariaDB (max packet size=1048576) WPLANG: en_US Server: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 38.3M | 42M) multisite: N openssl: OpenSSL 3.0.11 19 Sep 2023 mcrypt: N LANG:  ZipArchive::addFile: N
+0301.543 (1) Free space on disk containing Updraft's temporary directory: 84375.2 MB
+0301.546 (1) Requesting backup semaphore lock (6f79ff696144)
+0301.549 (1) [Debug] Lock option (updraft_lock_6f79ff696144, wp_options) was created in the database
+0301.550 (1) [Info] Lock (updraft_lock_6f79ff696144, wp_options) acquired after initialising the database
+0301.553 (1) Backup run: resumption=1, nonce=6f79ff696144, file_nonce=6f79ff696144 begun at=1717763503 (301s ago), job type=backup, previous check-in=18.4s
+0301.557 (1) Scheduling a resumption (2) after 300 seconds (1717764104) in case this run gets aborted
+0301.570 (1) Checking if we have a zip executable available
+0301.572 (1) Zip engine: ZipArchive (a.k.a. php-zip) is not available or is disabled (will use PclZip (much slower) if needed)
+0301.574 (1) Creation of backups of directories: already finished
+0301.576 (1) Saving backup status to database (elements: 8)
+0301.582 (1) Database dump (WordPress DB): Creation was completed already
+0301.584 (1) SQL compatibility mode is: NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+0301.590 (1) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0301.592 (1) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0301.594 (1) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0301.595 (1) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-others.zip: others: This file has not yet been successfully uploaded: will queue
+0301.596 (1) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-db.gz: db: This file has not yet been successfully uploaded: will queue
+0301.598 (1) Saving backup history. Total backup size: 19.7 MB
+0301.601 (1) Requesting upload of the files that have not yet been successfully uploaded (5)
+0301.604 (1) Cloud backup selection (1/1): email with instance (1/1) (last)
+0301.606 (1) Beginning dispatch of backup to remote (email)
+0301.607 (1) Email: backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-plugins.zip: email to: shara...
+0301.620 (1) An error occurred when sending a backup report email and/or backup file(s) via email (wp_mail_failed): Invalid address:  (From): wordpress@localhost
+0301.622 (1) Email: Mails were not sent successfully
+0301.624 (1) An error condition has occurred for the first time during this job
+0301.626 (1) Email: backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-themes.zip: email to: shara...
+0301.628 (1) An error occurred when sending a backup report email and/or backup file(s) via email (wp_mail_failed): Invalid address:  (From): wordpress@localhost
+0301.629 (1) Email: Mails were not sent successfully
+0301.631 (1) Email: backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-uploads.zip: email to: shara...
+0301.633 (1) An error occurred when sending a backup report email and/or backup file(s) via email (wp_mail_failed): Invalid address:  (From): wordpress@localhost
+0301.634 (1) Email: Mails were not sent successfully
+0301.636 (1) Email: backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-others.zip: email to: shara...
+0301.638 (1) An error occurred when sending a backup report email and/or backup file(s) via email (wp_mail_failed): Invalid address:  (From): wordpress@localhost
+0301.640 (1) Email: Mails were not sent successfully
+0301.642 (1) Email: backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-db.gz: email to: shara...
+0301.645 (1) An error occurred when sending a backup report email and/or backup file(s) via email (wp_mail_failed): Invalid address:  (From): wordpress@localhost
+0301.649 (1) Email: Mails were not sent successfully
+0301.656 (1) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0301.658 (1) Number of backup sets in history: 1; groups (db): 1
+0301.660 (1) Examining (for databases) backup set with group_id=0, nonce=6f79ff696144, datestamp=1717763503 (Jun 07 2024 12:31:43)
+0301.662 (1) This backup set is the backup set just made, so will not be deleted.
+0301.662 (1) Number of backup sets in history: 1; groups (files): 1
+0301.664 (1) Examining (for files) backup set with nonce=6f79ff696144, datestamp=1717763503 (Jun 07 2024 12:31:43)
+0301.664 (1) This backup set is the backup set just made, so will not be deleted.
+0301.665 (1) This backup set is the backup set just made, so will not be deleted.
+0301.666 (1) This backup set is the backup set just made, so will not be deleted.
+0301.666 (1) This backup set is the backup set just made, so will not be deleted.
+0301.666 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0301.667 (1) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0301.672 (1) Resume backup (6f79ff696144, 1): finish run
+0301.675 (1) [Info] Lock option (updraft_lock_6f79ff696144, wp_options) released
+0301.679 (1) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0301.682 (1) The backup has not finished; a resumption is scheduled
+0622.186 (2) Opened log file at time: Fri, 07 Jun 2024 12:42:05 +0000 on http://localhost/worksmartwithsharaz
+0622.189 (2) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.24.3 WP: 6.5.4 PHP: 8.2.12 (apache2handler, Windows NT HPPROBOOKX360G8 10.0 build 22631 (Windows 11) AMD64) MySQL: 10.4.32-MariaDB (max packet size=1048576) WPLANG: en_US Server: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 38.3M | 40M) multisite: N openssl: OpenSSL 3.0.11 19 Sep 2023 mcrypt: N LANG:  ZipArchive::addFile: N
+0622.190 (2) Free space on disk containing Updraft's temporary directory: 84369.8 MB
+0622.193 (2) Requesting backup semaphore lock (6f79ff696144)
+0622.196 (2) [Info] Lock (updraft_lock_6f79ff696144, wp_options) acquired
+0622.200 (2) Backup run: resumption=2, nonce=6f79ff696144, file_nonce=6f79ff696144 begun at=1717763503 (622s ago), job type=backup
+0622.203 (2) Scheduling a resumption (3) after 300 seconds (1717764425) in case this run gets aborted
+0622.216 (2) Checking if we have a zip executable available
+0622.218 (2) Zip engine: ZipArchive (a.k.a. php-zip) is not available or is disabled (will use PclZip (much slower) if needed)
+0622.220 (2) Creation of backups of directories: already finished
+0622.223 (2) Saving backup status to database (elements: 8)
+0622.231 (2) Database dump (WordPress DB): Creation was completed already
+0622.233 (2) SQL compatibility mode is: NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+0622.241 (2) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0622.243 (2) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0622.245 (2) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0622.246 (2) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-others.zip: others: This file has not yet been successfully uploaded: will queue
+0622.248 (2) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-db.gz: db: This file has not yet been successfully uploaded: will queue
+0622.249 (2) Saving backup history. Total backup size: 19.7 MB
+0622.253 (2) Requesting upload of the files that have not yet been successfully uploaded (5)
+0622.257 (2) Cloud backup selection (1/1): email with instance (1/1) (last)
+0622.259 (2) Beginning dispatch of backup to remote (email)
+0622.261 (2) Email: backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-plugins.zip: email to: shara...
+0622.271 (2) An error occurred when sending a backup report email and/or backup file(s) via email (wp_mail_failed): Invalid address:  (From): wordpress@localhost
+0622.272 (2) Email: Mails were not sent successfully
+0622.274 (2) An error condition has occurred for the first time during this job
+0622.276 (2) Email: backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-themes.zip: email to: shara...
+0622.278 (2) An error occurred when sending a backup report email and/or backup file(s) via email (wp_mail_failed): Invalid address:  (From): wordpress@localhost
+0622.280 (2) Email: Mails were not sent successfully
+0622.281 (2) Email: backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-uploads.zip: email to: shara...
+0622.284 (2) An error occurred when sending a backup report email and/or backup file(s) via email (wp_mail_failed): Invalid address:  (From): wordpress@localhost
+0622.285 (2) Email: Mails were not sent successfully
+0622.287 (2) Email: backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-others.zip: email to: shara...
+0622.289 (2) An error occurred when sending a backup report email and/or backup file(s) via email (wp_mail_failed): Invalid address:  (From): wordpress@localhost
+0622.291 (2) Email: Mails were not sent successfully
+0622.293 (2) Email: backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-db.gz: email to: shara...
+0622.295 (2) An error occurred when sending a backup report email and/or backup file(s) via email (wp_mail_failed): Invalid address:  (From): wordpress@localhost
+0622.296 (2) Email: Mails were not sent successfully
+0622.300 (2) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0622.303 (2) Number of backup sets in history: 1; groups (db): 1
+0622.304 (2) Examining (for databases) backup set with group_id=0, nonce=6f79ff696144, datestamp=1717763503 (Jun 07 2024 12:31:43)
+0622.306 (2) This backup set is the backup set just made, so will not be deleted.
+0622.306 (2) Number of backup sets in history: 1; groups (files): 1
+0622.308 (2) Examining (for files) backup set with nonce=6f79ff696144, datestamp=1717763503 (Jun 07 2024 12:31:43)
+0622.308 (2) This backup set is the backup set just made, so will not be deleted.
+0622.310 (2) This backup set is the backup set just made, so will not be deleted.
+0622.310 (2) This backup set is the backup set just made, so will not be deleted.
+0622.310 (2) This backup set is the backup set just made, so will not be deleted.
+0622.310 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0622.312 (2) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0622.316 (2) Resume backup (6f79ff696144, 2): finish run
+0622.318 (2) [Info] Lock option (updraft_lock_6f79ff696144, wp_options) released
+0622.321 (2) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0622.325 (2) The backup has not finished; a resumption is scheduled
+0924.083 (3) Opened log file at time: Fri, 07 Jun 2024 12:47:07 +0000 on http://localhost/worksmartwithsharaz
+0924.086 (3) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.24.3 WP: 6.5.4 PHP: 8.2.12 (apache2handler, Windows NT HPPROBOOKX360G8 10.0 build 22631 (Windows 11) AMD64) MySQL: 10.4.32-MariaDB (max packet size=1048576) WPLANG: en_US Server: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 38.3M | 40M) multisite: N openssl: OpenSSL 3.0.11 19 Sep 2023 mcrypt: N LANG:  ZipArchive::addFile: N
+0924.087 (3) Free space on disk containing Updraft's temporary directory: 84372.4 MB
+0924.090 (3) Requesting backup semaphore lock (6f79ff696144)
+0924.095 (3) [Info] Lock (updraft_lock_6f79ff696144, wp_options) acquired
+0924.099 (3) Backup run: resumption=3, nonce=6f79ff696144, file_nonce=6f79ff696144 begun at=1717763503 (924s ago), job type=backup
+0924.103 (3) Scheduling a resumption (4) after 300 seconds (1717764727) in case this run gets aborted
+0924.115 (3) Checking if we have a zip executable available
+0924.117 (3) Zip engine: ZipArchive (a.k.a. php-zip) is not available or is disabled (will use PclZip (much slower) if needed)
+0924.119 (3) Creation of backups of directories: already finished
+0924.122 (3) Saving backup status to database (elements: 8)
+0924.128 (3) Database dump (WordPress DB): Creation was completed already
+0924.130 (3) SQL compatibility mode is: NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+0924.138 (3) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0924.140 (3) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0924.142 (3) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0924.144 (3) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-others.zip: others: This file has not yet been successfully uploaded: will queue
+0924.146 (3) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-db.gz: db: This file has not yet been successfully uploaded: will queue
+0924.147 (3) Saving backup history. Total backup size: 19.7 MB
+0924.151 (3) Requesting upload of the files that have not yet been successfully uploaded (5)
+0924.155 (3) Cloud backup selection (1/1): email with instance (1/1) (last)
+0924.157 (3) Beginning dispatch of backup to remote (email)
+0924.159 (3) Email: backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-plugins.zip: email to: shara...
+0924.168 (3) An error occurred when sending a backup report email and/or backup file(s) via email (wp_mail_failed): Invalid address:  (From): wordpress@localhost
+0924.169 (3) Email: Mails were not sent successfully
+0924.171 (3) An error condition has occurred for the first time during this job
+0924.172 (3) Email: backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-themes.zip: email to: shara...
+0924.174 (3) An error occurred when sending a backup report email and/or backup file(s) via email (wp_mail_failed): Invalid address:  (From): wordpress@localhost
+0924.175 (3) Email: Mails were not sent successfully
+0924.177 (3) Email: backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-uploads.zip: email to: shara...
+0924.178 (3) An error occurred when sending a backup report email and/or backup file(s) via email (wp_mail_failed): Invalid address:  (From): wordpress@localhost
+0924.180 (3) Email: Mails were not sent successfully
+0924.181 (3) Email: backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-others.zip: email to: shara...
+0924.183 (3) An error occurred when sending a backup report email and/or backup file(s) via email (wp_mail_failed): Invalid address:  (From): wordpress@localhost
+0924.184 (3) Email: Mails were not sent successfully
+0924.186 (3) Email: backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-db.gz: email to: shara...
+0924.187 (3) An error occurred when sending a backup report email and/or backup file(s) via email (wp_mail_failed): Invalid address:  (From): wordpress@localhost
+0924.188 (3) Email: Mails were not sent successfully
+0924.191 (3) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0924.193 (3) Number of backup sets in history: 1; groups (db): 1
+0924.195 (3) Examining (for databases) backup set with group_id=0, nonce=6f79ff696144, datestamp=1717763503 (Jun 07 2024 12:31:43)
+0924.196 (3) This backup set is the backup set just made, so will not be deleted.
+0924.196 (3) Number of backup sets in history: 1; groups (files): 1
+0924.197 (3) Examining (for files) backup set with nonce=6f79ff696144, datestamp=1717763503 (Jun 07 2024 12:31:43)
+0924.197 (3) This backup set is the backup set just made, so will not be deleted.
+0924.199 (3) This backup set is the backup set just made, so will not be deleted.
+0924.199 (3) This backup set is the backup set just made, so will not be deleted.
+0924.199 (3) This backup set is the backup set just made, so will not be deleted.
+0924.199 (3) This backup set remains non-empty (f=1/d=1); will retain in history
+0924.200 (3) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0924.204 (3) Resume backup (6f79ff696144, 3): finish run
+0924.205 (3) [Info] Lock option (updraft_lock_6f79ff696144, wp_options) released
+0924.208 (3) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0924.211 (3) The backup has not finished; a resumption is scheduled
+1251.042 (4) Opened log file at time: Fri, 07 Jun 2024 12:52:34 +0000 on http://localhost/worksmartwithsharaz
+1251.044 (4) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.24.3 WP: 6.5.4 PHP: 8.2.12 (apache2handler, Windows NT HPPROBOOKX360G8 10.0 build 22631 (Windows 11) AMD64) MySQL: 10.4.32-MariaDB (max packet size=1048576) WPLANG: en_US Server: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 38.3M | 42M) multisite: N openssl: OpenSSL 3.0.11 19 Sep 2023 mcrypt: N LANG:  ZipArchive::addFile: N
+1251.046 (4) Free space on disk containing Updraft's temporary directory: 84340.8 MB
+1251.049 (4) Requesting backup semaphore lock (6f79ff696144)
+1251.053 (4) [Info] Lock (updraft_lock_6f79ff696144, wp_options) acquired
+1251.057 (4) Backup run: resumption=4, nonce=6f79ff696144, file_nonce=6f79ff696144 begun at=1717763503 (1251s ago), job type=backup
+1251.061 (4) Scheduling a resumption (5) after 300 seconds (1717765054) in case this run gets aborted
+1251.074 (4) Checking if we have a zip executable available
+1251.076 (4) Zip engine: ZipArchive (a.k.a. php-zip) is not available or is disabled (will use PclZip (much slower) if needed)
+1251.078 (4) Creation of backups of directories: already finished
+1251.080 (4) Saving backup status to database (elements: 8)
+1251.087 (4) Database dump (WordPress DB): Creation was completed already
+1251.089 (4) SQL compatibility mode is: NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+1251.097 (4) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+1251.099 (4) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+1251.101 (4) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+1251.103 (4) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-others.zip: others: This file has not yet been successfully uploaded: will queue
+1251.105 (4) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-db.gz: db: This file has not yet been successfully uploaded: will queue
+1251.106 (4) Saving backup history. Total backup size: 19.7 MB
+1251.111 (4) Requesting upload of the files that have not yet been successfully uploaded (5)
+1251.115 (4) Cloud backup selection (1/1): email with instance (1/1) (last)
+1251.117 (4) Beginning dispatch of backup to remote (email)
+1251.119 (4) Email: backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-plugins.zip: email to: shara...
+1251.129 (4) An error occurred when sending a backup report email and/or backup file(s) via email (wp_mail_failed): Invalid address:  (From): wordpress@localhost
+1251.131 (4) Email: Mails were not sent successfully
+1251.133 (4) An error condition has occurred for the first time during this job
+1251.134 (4) Email: backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-themes.zip: email to: shara...
+1251.136 (4) An error occurred when sending a backup report email and/or backup file(s) via email (wp_mail_failed): Invalid address:  (From): wordpress@localhost
+1251.138 (4) Email: Mails were not sent successfully
+1251.140 (4) Email: backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-uploads.zip: email to: shara...
+1251.142 (4) An error occurred when sending a backup report email and/or backup file(s) via email (wp_mail_failed): Invalid address:  (From): wordpress@localhost
+1251.143 (4) Email: Mails were not sent successfully
+1251.145 (4) Email: backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-others.zip: email to: shara...
+1251.146 (4) An error occurred when sending a backup report email and/or backup file(s) via email (wp_mail_failed): Invalid address:  (From): wordpress@localhost
+1251.148 (4) Email: Mails were not sent successfully
+1251.149 (4) Email: backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-db.gz: email to: shara...
+1251.151 (4) An error occurred when sending a backup report email and/or backup file(s) via email (wp_mail_failed): Invalid address:  (From): wordpress@localhost
+1251.153 (4) Email: Mails were not sent successfully
+1251.156 (4) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+1251.159 (4) Number of backup sets in history: 1; groups (db): 1
+1251.160 (4) Examining (for databases) backup set with group_id=0, nonce=6f79ff696144, datestamp=1717763503 (Jun 07 2024 12:31:43)
+1251.162 (4) This backup set is the backup set just made, so will not be deleted.
+1251.162 (4) Number of backup sets in history: 1; groups (files): 1
+1251.164 (4) Examining (for files) backup set with nonce=6f79ff696144, datestamp=1717763503 (Jun 07 2024 12:31:43)
+1251.164 (4) This backup set is the backup set just made, so will not be deleted.
+1251.165 (4) This backup set is the backup set just made, so will not be deleted.
+1251.165 (4) This backup set is the backup set just made, so will not be deleted.
+1251.165 (4) This backup set is the backup set just made, so will not be deleted.
+1251.166 (4) This backup set remains non-empty (f=1/d=1); will retain in history
+1251.167 (4) Retain: saving new backup history (sets now: 1) and finishing retain operation
+1251.171 (4) Resume backup (6f79ff696144, 4): finish run
+1251.173 (4) [Info] Lock option (updraft_lock_6f79ff696144, wp_options) released
+1251.175 (4) There were errors in the uploads, so the 'resume' event is remaining scheduled
+1251.179 (4) The backup has not finished; a resumption is scheduled
+1551.837 (5) Opened log file at time: Fri, 07 Jun 2024 12:57:35 +0000 on http://localhost/worksmartwithsharaz
+1551.840 (5) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.24.3 WP: 6.5.4 PHP: 8.2.12 (apache2handler, Windows NT HPPROBOOKX360G8 10.0 build 22631 (Windows 11) AMD64) MySQL: 10.4.32-MariaDB (max packet size=1048576) WPLANG: en_US Server: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 38.7M | 40M) multisite: N openssl: OpenSSL 3.0.11 19 Sep 2023 mcrypt: N LANG:  ZipArchive::addFile: N
+1551.842 (5) Free space on disk containing Updraft's temporary directory: 84320.2 MB
+1551.845 (5) Requesting backup semaphore lock (6f79ff696144)
+1551.849 (5) [Info] Lock (updraft_lock_6f79ff696144, wp_options) acquired
+1551.853 (5) Backup run: resumption=5, nonce=6f79ff696144, file_nonce=6f79ff696144 begun at=1717763503 (1552s ago), job type=backup
+1551.857 (5) Scheduling a resumption (6) after 300 seconds (1717765355) in case this run gets aborted
+1551.870 (5) Checking if we have a zip executable available
+1551.872 (5) Zip engine: ZipArchive (a.k.a. php-zip) is not available or is disabled (will use PclZip (much slower) if needed)
+1551.874 (5) Creation of backups of directories: already finished
+1551.876 (5) Saving backup status to database (elements: 8)
+1551.883 (5) Database dump (WordPress DB): Creation was completed already
+1551.885 (5) SQL compatibility mode is: NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+1551.894 (5) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+1551.895 (5) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+1551.897 (5) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+1551.899 (5) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-others.zip: others: This file has not yet been successfully uploaded: will queue
+1551.901 (5) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-db.gz: db: This file has not yet been successfully uploaded: will queue
+1551.902 (5) Saving backup history. Total backup size: 19.7 MB
+1551.907 (5) Requesting upload of the files that have not yet been successfully uploaded (5)
+1551.910 (5) Cloud backup selection (1/1): email with instance (1/1) (last)
+1551.912 (5) Beginning dispatch of backup to remote (email)
+1551.914 (5) Email: backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-plugins.zip: email to: shara...
+1551.924 (5) An error occurred when sending a backup report email and/or backup file(s) via email (wp_mail_failed): Invalid address:  (From): wordpress@localhost
+1551.926 (5) Email: Mails were not sent successfully
+1551.928 (5) An error condition has occurred for the first time during this job
+1551.930 (5) Email: backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-themes.zip: email to: shara...
+1551.932 (5) An error occurred when sending a backup report email and/or backup file(s) via email (wp_mail_failed): Invalid address:  (From): wordpress@localhost
+1551.934 (5) Email: Mails were not sent successfully
+1551.936 (5) Email: backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-uploads.zip: email to: shara...
+1551.938 (5) An error occurred when sending a backup report email and/or backup file(s) via email (wp_mail_failed): Invalid address:  (From): wordpress@localhost
+1551.940 (5) Email: Mails were not sent successfully
+1551.942 (5) Email: backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-others.zip: email to: shara...
+1551.944 (5) An error occurred when sending a backup report email and/or backup file(s) via email (wp_mail_failed): Invalid address:  (From): wordpress@localhost
+1551.946 (5) Email: Mails were not sent successfully
+1551.948 (5) Email: backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-db.gz: email to: shara...
+1551.950 (5) An error occurred when sending a backup report email and/or backup file(s) via email (wp_mail_failed): Invalid address:  (From): wordpress@localhost
+1551.952 (5) Email: Mails were not sent successfully
+1551.956 (5) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+1551.959 (5) Number of backup sets in history: 1; groups (db): 1
+1551.961 (5) Examining (for databases) backup set with group_id=0, nonce=6f79ff696144, datestamp=1717763503 (Jun 07 2024 12:31:43)
+1551.963 (5) This backup set is the backup set just made, so will not be deleted.
+1551.963 (5) Number of backup sets in history: 1; groups (files): 1
+1551.964 (5) Examining (for files) backup set with nonce=6f79ff696144, datestamp=1717763503 (Jun 07 2024 12:31:43)
+1551.964 (5) This backup set is the backup set just made, so will not be deleted.
+1551.966 (5) This backup set is the backup set just made, so will not be deleted.
+1551.966 (5) This backup set is the backup set just made, so will not be deleted.
+1551.967 (5) This backup set is the backup set just made, so will not be deleted.
+1551.967 (5) This backup set remains non-empty (f=1/d=1); will retain in history
+1551.968 (5) Retain: saving new backup history (sets now: 1) and finishing retain operation
+1551.973 (5) Resume backup (6f79ff696144, 5): finish run
+1551.975 (5) [Info] Lock option (updraft_lock_6f79ff696144, wp_options) released
+1551.978 (5) There were errors in the uploads, so the 'resume' event is remaining scheduled
+1551.983 (5) The backup has not finished; a resumption is scheduled
+1858.325 (6) Opened log file at time: Fri, 07 Jun 2024 13:02:41 +0000 on http://localhost/worksmartwithsharaz
+1858.327 (6) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.24.3 WP: 6.5.4 PHP: 8.2.12 (apache2handler, Windows NT HPPROBOOKX360G8 10.0 build 22631 (Windows 11) AMD64) MySQL: 10.4.32-MariaDB (max packet size=1048576) WPLANG: en_US Server: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 40.4M | 42M) multisite: N openssl: OpenSSL 3.0.11 19 Sep 2023 mcrypt: N LANG:  ZipArchive::addFile: N
+1858.329 (6) Free space on disk containing Updraft's temporary directory: 84250.8 MB
+1858.332 (6) Requesting backup semaphore lock (6f79ff696144)
+1858.335 (6) [Info] Lock (updraft_lock_6f79ff696144, wp_options) acquired
+1858.345 (6) Backup run: resumption=6, nonce=6f79ff696144, file_nonce=6f79ff696144 begun at=1717763503 (1858s ago), job type=backup
+1858.348 (6) Scheduling a resumption (7) after 300 seconds (1717765661) in case this run gets aborted
+1858.361 (6) Checking if we have a zip executable available
+1858.363 (6) Zip engine: ZipArchive (a.k.a. php-zip) is not available or is disabled (will use PclZip (much slower) if needed)
+1858.365 (6) Creation of backups of directories: already finished
+1858.368 (6) Saving backup status to database (elements: 8)
+1858.375 (6) Database dump (WordPress DB): Creation was completed already
+1858.377 (6) SQL compatibility mode is: NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+1858.384 (6) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+1858.386 (6) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+1858.388 (6) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+1858.389 (6) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-others.zip: others: This file has not yet been successfully uploaded: will queue
+1858.391 (6) backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-db.gz: db: This file has not yet been successfully uploaded: will queue
+1858.393 (6) Saving backup history. Total backup size: 19.7 MB
+1858.397 (6) Requesting upload of the files that have not yet been successfully uploaded (5)
+1858.401 (6) Cloud backup selection (1/1): email with instance (1/1) (last)
+1858.403 (6) Beginning dispatch of backup to remote (email)
+1858.405 (6) Email: backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-plugins.zip: email to: shara...
+1858.415 (6) An error occurred when sending a backup report email and/or backup file(s) via email (wp_mail_failed): Invalid address:  (From): wordpress@localhost
+1858.417 (6) Email: Mails were not sent successfully
+1858.418 (6) An error condition has occurred for the first time during this job
+1858.420 (6) Email: backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-themes.zip: email to: shara...
+1858.422 (6) An error occurred when sending a backup report email and/or backup file(s) via email (wp_mail_failed): Invalid address:  (From): wordpress@localhost
+1858.423 (6) Email: Mails were not sent successfully
+1858.425 (6) Email: backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-uploads.zip: email to: shara...
+1858.426 (6) An error occurred when sending a backup report email and/or backup file(s) via email (wp_mail_failed): Invalid address:  (From): wordpress@localhost
+1858.428 (6) Email: Mails were not sent successfully
+1858.429 (6) Email: backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-others.zip: email to: shara...
+1858.430 (6) An error occurred when sending a backup report email and/or backup file(s) via email (wp_mail_failed): Invalid address:  (From): wordpress@localhost
+1858.432 (6) Email: Mails were not sent successfully
+1858.433 (6) Email: backup_2024-06-07-1231_Work_Smart_Hub_6f79ff696144-db.gz: email to: shara...
+1858.435 (6) An error occurred when sending a backup report email and/or backup file(s) via email (wp_mail_failed): Invalid address:  (From): wordpress@localhost
+1858.437 (6) Email: Mails were not sent successfully
+1858.441 (6) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+1858.443 (6) Number of backup sets in history: 1; groups (db): 1
+1858.445 (6) Examining (for databases) backup set with group_id=0, nonce=6f79ff696144, datestamp=1717763503 (Jun 07 2024 12:31:43)
+1858.447 (6) This backup set is the backup set just made, so will not be deleted.
+1858.447 (6) Number of backup sets in history: 1; groups (files): 1
+1858.448 (6) Examining (for files) backup set with nonce=6f79ff696144, datestamp=1717763503 (Jun 07 2024 12:31:43)
+1858.448 (6) This backup set is the backup set just made, so will not be deleted.
+1858.450 (6) This backup set is the backup set just made, so will not be deleted.
+1858.450 (6) This backup set is the backup set just made, so will not be deleted.
+1858.450 (6) This backup set is the backup set just made, so will not be deleted.
+1858.450 (6) This backup set remains non-empty (f=1/d=1); will retain in history
+1858.452 (6) Retain: saving new backup history (sets now: 1) and finishing retain operation
+1858.457 (6) Resume backup (6f79ff696144, 6): finish run
+1858.459 (6) [Info] Lock option (updraft_lock_6f79ff696144, wp_options) released
+1858.462 (6) There were errors in the uploads, so the 'resume' event is remaining scheduled
+1858.467 (6) The backup has not finished; a resumption is scheduled
