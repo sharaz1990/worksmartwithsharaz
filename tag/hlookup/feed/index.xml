@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>hlookup &#8211; Work Smart Hub</title>
+	<atom:link href="https://sharaz1990.github.io/worksmartwithsharaz/tag/hlookup/feed/" rel="self" type="application/rss+xml" />
+	<link>https://sharaz1990.github.io/worksmartwithsharaz/</link>
+	<description>Work Smart!</description>
+	<lastBuildDate>Mon, 17 Jun 2024 21:39:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
+
+<image>
+	<url>https://sharaz1990.github.io/worksmartwithsharaz/wp-content/uploads/2024/06/cropped-Work-Smart-Hub-Logo-No-backgroud-v2-32x32.png</url>
+	<title>hlookup &#8211; Work Smart Hub</title>
+	<link>https://sharaz1990.github.io/worksmartwithsharaz/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Which Lookup Function is Best?</title>
+		<link>https://sharaz1990.github.io/worksmartwithsharaz/which-lookup-function-is-best/</link>
+					<comments>https://sharaz1990.github.io/worksmartwithsharaz/which-lookup-function-is-best/#respond</comments>
+		
+		<dc:creator><![CDATA[worksmartwithsharaz]]></dc:creator>
+		<pubDate>Fri, 31 May 2024 13:46:46 +0000</pubDate>
+				<category><![CDATA[All Tutorials]]></category>
+		<category><![CDATA[Excel Tutorials]]></category>
+		<category><![CDATA[excelformulas]]></category>
+		<category><![CDATA[excellookups]]></category>
+		<category><![CDATA[exceltips]]></category>
+		<category><![CDATA[hlookup]]></category>
+		<category><![CDATA[indexmatch]]></category>
+		<category><![CDATA[vlookup]]></category>
+		<category><![CDATA[xlookup]]></category>
+		<guid isPermaLink="false">https://sharaz1990.github.io/worksmartwithsharaz/which-lookup-function-is-best/</guid>
+
+					<description><![CDATA[In this video, we dive deep into Excel\'s powerful lookup functions: how to use VLOOKUP, HLOOKUP, INDEX MATCH, and XLOOKUP functions. Learn how to use each function with practical examples, discover why INDEX MATCH can outperform VLOOKUP, and see how XLOOKUP outshines them all. VLOOKUP vs HLOOKUP, VLOOKUP vs INDEX MATCH, XLOOKUP vs INDEX MATCH and XLOOKUP vs VLOOKUP. Know which function is best used to lookup and retrieve data using 3 types of lookup in Excel. We\'ll also show you how to use multiple criteria in XLOOKUP or any lookup function. ]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Which Lookup Function is Best? | Use Multiple Criteria in any Lookup | Work Smart Hub" width="500" height="281" src="https://www.youtube.com/embed/rvy3eHjnfzY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://sharaz1990.github.io/worksmartwithsharaz/which-lookup-function-is-best/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

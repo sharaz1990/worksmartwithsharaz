@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>datanalysis &#8211; Work Smart Hub</title>
+	<atom:link href="https://sharaz1990.github.io/worksmartwithsharaz/tag/datanalysis/feed/" rel="self" type="application/rss+xml" />
+	<link>https://sharaz1990.github.io/worksmartwithsharaz/</link>
+	<description>Work Smart!</description>
+	<lastBuildDate>Mon, 17 Jun 2024 21:39:38 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
+
+<image>
+	<url>https://sharaz1990.github.io/worksmartwithsharaz/wp-content/uploads/2024/06/cropped-Work-Smart-Hub-Logo-No-backgroud-v2-32x32.png</url>
+	<title>datanalysis &#8211; Work Smart Hub</title>
+	<link>https://sharaz1990.github.io/worksmartwithsharaz/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Automate the Boring Stuff with Power Query</title>
+		<link>https://sharaz1990.github.io/worksmartwithsharaz/excel-automation/</link>
+					<comments>https://sharaz1990.github.io/worksmartwithsharaz/excel-automation/#respond</comments>
+		
+		<dc:creator><![CDATA[worksmartwithsharaz]]></dc:creator>
+		<pubDate>Wed, 06 Mar 2024 13:39:21 +0000</pubDate>
+				<category><![CDATA[All Tutorials]]></category>
+		<category><![CDATA[Excel Tutorials]]></category>
+		<category><![CDATA[datanalysis]]></category>
+		<category><![CDATA[datatransformation]]></category>
+		<category><![CDATA[excel]]></category>
+		<category><![CDATA[excelautomation]]></category>
+		<category><![CDATA[powerquery]]></category>
+		<guid isPermaLink="false">https://sharaz1990.github.io/worksmartwithsharaz/excel-automation/</guid>
+
+					<description><![CDATA[In this tutorial, we explore a smarter way to summarize calling data (example) using Excel\'s Power Query. Say goodbye to manual data cleaning and transforming – automate your process with ease! 💼📊 We\'ll teach you EXCEL AUTOMATION and how to AUTOMATE YOUR BORING TASKS WITH EXCEL.]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Excel Automation | Automate the Boring Stuff with Power Query | Work Smart Hub" width="500" height="281" src="https://www.youtube.com/embed/EI5EPsdLrto?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://sharaz1990.github.io/worksmartwithsharaz/excel-automation/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
