@@ -12,13 +12,13 @@
 	<atom:link href="https://sharaz1990.github.io/worksmartwithsharaz/category/other/feed/" rel="self" type="application/rss+xml" />
 	<link>https://sharaz1990.github.io/worksmartwithsharaz/</link>
 	<description>Work Smart!</description>
-	<lastBuildDate>Mon, 17 Jun 2024 21:37:33 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 01 Jul 2024 20:54:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.4</generator>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
 
 <image>
 	<url>https://sharaz1990.github.io/worksmartwithsharaz/wp-content/uploads/2024/06/cropped-Work-Smart-Hub-Logo-No-backgroud-v2-32x32.png</url>
@@ -28,6 +28,36 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Make your own Website FREE</title>
+		<link>https://sharaz1990.github.io/worksmartwithsharaz/make-your-own-website-free/</link>
+					<comments>https://sharaz1990.github.io/worksmartwithsharaz/make-your-own-website-free/#respond</comments>
+		
+		<dc:creator><![CDATA[worksmartwithsharaz]]></dc:creator>
+		<pubDate>Mon, 01 Jul 2024 20:54:13 +0000</pubDate>
+				<category><![CDATA[All Tutorials]]></category>
+		<category><![CDATA[Computer, IT & Other Tutorials]]></category>
+		<category><![CDATA[create website]]></category>
+		<category><![CDATA[design website]]></category>
+		<category><![CDATA[domain]]></category>
+		<category><![CDATA[flywheel]]></category>
+		<category><![CDATA[GitHub]]></category>
+		<category><![CDATA[hosting]]></category>
+		<category><![CDATA[wordpress]]></category>
+		<guid isPermaLink="false">https://sharaz1990.github.io/worksmartwithsharaz/?p=1653</guid>
+
+					<description><![CDATA[Learn how to create and host a FREE website using Local by Flywheel and GitHub without any coding! In this step-by-step tutorial, we'll show you how to make a website locally and then host it online for free.]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Make your own Website FREE | Host a Free Website Locally with Flywheel and GitHub| Work Smart Hub" width="500" height="281" src="https://www.youtube.com/embed/d2rB7y2xMHg?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://sharaz1990.github.io/worksmartwithsharaz/make-your-own-website-free/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Watch YouTube in any Language</title>
 		<link>https://sharaz1990.github.io/worksmartwithsharaz/watch-youtube-in-any-language/</link>
 					<comments>https://sharaz1990.github.io/worksmartwithsharaz/watch-youtube-in-any-language/#respond</comments>
