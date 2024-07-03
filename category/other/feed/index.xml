@@ -12,7 +12,7 @@
 	<atom:link href="https://sharaz1990.github.io/worksmartwithsharaz/category/other/feed/" rel="self" type="application/rss+xml" />
 	<link>https://sharaz1990.github.io/worksmartwithsharaz/</link>
 	<description>Work Smart!</description>
-	<lastBuildDate>Mon, 01 Jul 2024 20:54:13 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 02 Jul 2024 10:03:18 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.5.5</generator>
 
 <image>
-	<url>https://sharaz1990.github.io/worksmartwithsharaz/wp-content/uploads/2024/06/cropped-Work-Smart-Hub-Logo-No-backgroud-v2-32x32.png</url>
+	<url>https://sharaz1990.github.io/worksmartwithsharaz/wp-content/uploads/2024/06/cropped-Work-Smart-Hub-Logo-No-backgroud-v2-120x120.png</url>
 	<title>Computer, IT &amp; Other Tutorials &#8211; Work Smart Hub</title>
 	<link>https://sharaz1990.github.io/worksmartwithsharaz/</link>
 	<width>32</width>
@@ -48,7 +48,7 @@
 					<description><![CDATA[Learn how to create and host a FREE website using Local by Flywheel and GitHub without any coding! In this step-by-step tutorial, we'll show you how to make a website locally and then host it online for free.]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Make your own Website FREE | Host a Free Website Locally with Flywheel and GitHub| Work Smart Hub" width="500" height="281" src="https://www.youtube.com/embed/d2rB7y2xMHg?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="ast-oembed-container " style="height: 100%;"><iframe title="Make your own Website FREE | Host a Free Website Locally with Flywheel and GitHub| Work Smart Hub" width="1200" height="675" src="https://www.youtube.com/embed/d2rB7y2xMHg?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 </div></figure>
 ]]></content:encoded>
 					
@@ -72,10 +72,10 @@
 		<category><![CDATA[youtubetips]]></category>
 		<guid isPermaLink="false">https://sharaz1990.github.io/worksmartwithsharaz/?p=1487</guid>
 
-					<description><![CDATA[Auto-Translate YouTube Video into Your Language]]></description>
+					<description><![CDATA[Auto-Translate YouTube Video into Your Own Language.]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Watch YouTube in any Language | Auto-Translate YouTube Video into Your Language | Work Smart Hub" width="500" height="281" src="https://www.youtube.com/embed/kHR5w5kkSV0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="ast-oembed-container " style="height: 100%;"><iframe title="Watch YouTube in any Language | Auto-Translate YouTube Video into Your Language | Work Smart Hub" width="1200" height="675" src="https://www.youtube.com/embed/kHR5w5kkSV0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 </div></figure>
 ]]></content:encoded>
 					

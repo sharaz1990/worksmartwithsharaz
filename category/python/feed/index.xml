@@ -12,7 +12,7 @@
 	<atom:link href="https://sharaz1990.github.io/worksmartwithsharaz/category/python/feed/" rel="self" type="application/rss+xml" />
 	<link>https://sharaz1990.github.io/worksmartwithsharaz/</link>
 	<description>Work Smart!</description>
-	<lastBuildDate>Mon, 17 Jun 2024 21:39:40 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 02 Jul 2024 10:13:11 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.5.5</generator>
 
 <image>
-	<url>https://sharaz1990.github.io/worksmartwithsharaz/wp-content/uploads/2024/06/cropped-Work-Smart-Hub-Logo-No-backgroud-v2-32x32.png</url>
+	<url>https://sharaz1990.github.io/worksmartwithsharaz/wp-content/uploads/2024/06/cropped-Work-Smart-Hub-Logo-No-backgroud-v2-120x120.png</url>
 	<title>Python Tutorials &#8211; Work Smart Hub</title>
 	<link>https://sharaz1990.github.io/worksmartwithsharaz/</link>
 	<width>32</width>
@@ -42,10 +42,10 @@
 		<category><![CDATA[python]]></category>
 		<guid isPermaLink="false">https://sharaz1990.github.io/worksmartwithsharaz/merge-data-2/</guid>
 
-					<description><![CDATA[Learn how to Merge different Excel files into one, or How to Merge different Excel Workbooks into one, or How to combine multiple Excel files into one using Python. How to automate the consolidation of multiple CSV data files using Python and ChatGPT. Say goodbye to manual merging and hello to efficiency! 💻📊]]></description>
+					<description><![CDATA[Learn how to Merge different Excel files or workbooks into one using Python and ChatGPT. Say goodbye to manual merging and hello to efficiency! 💻📊]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Merge Data | Combine Multiple Excel Workbooks into One using Python | Work Smart Hub" width="500" height="281" src="https://www.youtube.com/embed/-G0OyDb0jXs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="ast-oembed-container " style="height: 100%;"><iframe title="Merge Data | Combine Multiple Excel Workbooks into One using Python | Work Smart Hub" width="1200" height="675" src="https://www.youtube.com/embed/-G0OyDb0jXs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 </div></figure>
 ]]></content:encoded>
 					
@@ -69,11 +69,11 @@
 		<category><![CDATA[pythonautomation]]></category>
 		<guid isPermaLink="false">https://sharaz1990.github.io/worksmartwithsharaz/python-automation/</guid>
 
-					<description><![CDATA[In this tutorial, witness the power of PYTHON AUTOMATION, as we leverage ChatGPT to generate PYTHON CODE for AUTOMATION OF YOUR DAILY BORING WORK. From cleaning to transforming data, it\'s a one-click solution for daily tasks! 💻🐍
+					<description><![CDATA[In this tutorial, witness the power of PYTHON AUTOMATION, as we leverage ChatGPT to generate PYTHON CODE for AUTOMATION OF YOUR DAILY BORING WORK. From cleaning to transforming data, it's a one-click solution for daily tasks! 💻🐍
 ]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Python Automation | Automate the Boring Stuff with Python | Work Smart Hub" width="500" height="281" src="https://www.youtube.com/embed/oikNebJZnyw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="ast-oembed-container " style="height: 100%;"><iframe title="Python Automation | Automate the Boring Stuff with Python | Work Smart Hub" width="1200" height="675" src="https://www.youtube.com/embed/oikNebJZnyw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 </div></figure>
 ]]></content:encoded>
 					
@@ -95,11 +95,11 @@
 		<category><![CDATA[pythontoexe]]></category>
 		<guid isPermaLink="false">https://sharaz1990.github.io/worksmartwithsharaz/python-to-exe/</guid>
 
-					<description><![CDATA[Unlock the power of standalone Python applications! 🚀 In this tutorial from Work Smart Hub, learn how to CONVERT PYTHON CODE TO STANDALON .EXE file. You can convert .PY to .EXE 
+					<description><![CDATA[Learn how to convert Python code to standalone .EXE file. You can convert .PY to .EXE 
 No need for Python or VS Code—just run it by double-clicking and get the job done! 💡🔧 ]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Python to exe | Convert .py to .exe | Work Smart Hub" width="500" height="281" src="https://www.youtube.com/embed/AbimMeboeis?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="ast-oembed-container " style="height: 100%;"><iframe title="Python to exe | Convert .py to .exe | Work Smart Hub" width="1200" height="675" src="https://www.youtube.com/embed/AbimMeboeis?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 </div></figure>
 ]]></content:encoded>
 					
@@ -122,10 +122,10 @@ No need for Python or VS Code—just run it by double-clicking and get the job d
 		<category><![CDATA[python]]></category>
 		<guid isPermaLink="false">https://sharaz1990.github.io/worksmartwithsharaz/split-data/</guid>
 
-					<description><![CDATA[Unlock the power of automation! In this tutorial, I\'ll guide you through HOW TO SPLIT CSV FILE INTO MULTIPLE FILES or SPLIT EXCEL SHEET, SPLIT CSV or splitting an Excel workbook into multiple workbooks using Python, with code generated by ChatGPT. No coding knowledge required! ]]></description>
+					<description><![CDATA[Unlock the power of automation! In this tutorial, I'll guide you through how to split CSV file into multiple Excel files using Python, with code generated by ChatGPT. No coding knowledge required! ]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Split Data | Split Excel file into multiple files using Python | Work Smart Hub" width="500" height="281" src="https://www.youtube.com/embed/OhFepZe68ik?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="ast-oembed-container " style="height: 100%;"><iframe loading="lazy" title="Split Data | Split Excel file into multiple files using Python | Work Smart Hub" width="1200" height="675" src="https://www.youtube.com/embed/OhFepZe68ik?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 </div></figure>
 ]]></content:encoded>
 					
@@ -153,7 +153,7 @@ No need for Python or VS Code—just run it by double-clicking and get the job d
 					<description><![CDATA[How to Download and Install Python, Libraries &#038; Visual Studio Code.]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Python &amp; VS Code Install | How to Install Python, Libraries &amp; Visual Studio Code | Work Smart Hub" width="500" height="281" src="https://www.youtube.com/embed/urvKa-xBSz0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="ast-oembed-container " style="height: 100%;"><iframe loading="lazy" title="Python &amp; VS Code Install | How to Install Python, Libraries &amp; Visual Studio Code | Work Smart Hub" width="1200" height="675" src="https://www.youtube.com/embed/urvKa-xBSz0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 </div></figure>
 ]]></content:encoded>
 					
