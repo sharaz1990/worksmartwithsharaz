@@ -12,7 +12,7 @@
 	<atom:link href="https://sharaz1990.github.io/worksmartwithsharaz/category/alltutorials/feed/" rel="self" type="application/rss+xml" />
 	<link>https://sharaz1990.github.io/worksmartwithsharaz/</link>
 	<description>Work Smart!</description>
-	<lastBuildDate>Tue, 02 Jul 2024 10:10:46 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 17 Jul 2024 22:32:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,33 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Create a Dynamic Calendar in Excel for Unlimited Years with a Single Formula</title>
+		<link>https://sharaz1990.github.io/worksmartwithsharaz/create-a-dynamic-calendar-in-excel-for-unlimited-years-with-a-single-formula/</link>
+					<comments>https://sharaz1990.github.io/worksmartwithsharaz/create-a-dynamic-calendar-in-excel-for-unlimited-years-with-a-single-formula/#respond</comments>
+		
+		<dc:creator><![CDATA[worksmartwithsharaz]]></dc:creator>
+		<pubDate>Wed, 17 Jul 2024 22:32:59 +0000</pubDate>
+				<category><![CDATA[All Tutorials]]></category>
+		<category><![CDATA[Excel Tutorials]]></category>
+		<category><![CDATA[calendar]]></category>
+		<category><![CDATA[calendar 2024]]></category>
+		<category><![CDATA[excel calendar]]></category>
+		<category><![CDATA[interactive calendar]]></category>
+		<guid isPermaLink="false">https://sharaz1990.github.io/worksmartwithsharaz/?p=1800</guid>
+
+					<description><![CDATA[Learn how to create a dynamic calendar in Excel for 2021, 2022, 2023, 2024, 2025, and beyond, using a single formula without any VBA coding. Including Task Planner and free Excel Template.]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="ast-oembed-container " style="height: 100%;"><iframe title="Create a Dynamic Calendar in Excel for Unlimited Years with a Single Formula | Work Smart Hub" width="1200" height="675" src="https://www.youtube.com/embed/TtOZ0tEwZ1A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+</div></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://sharaz1990.github.io/worksmartwithsharaz/create-a-dynamic-calendar-in-excel-for-unlimited-years-with-a-single-formula/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Make your own Website FREE</title>
 		<link>https://sharaz1990.github.io/worksmartwithsharaz/make-your-own-website-free/</link>
 					<comments>https://sharaz1990.github.io/worksmartwithsharaz/make-your-own-website-free/#respond</comments>
@@ -105,7 +132,7 @@
 					<description><![CDATA[How to use VLOOKUP, HLOOKUP, INDEX MATCH, and XLOOKUP functions. Know which function is best used to lookup and retrieve data. We'll also show you how to use multiple criteria in XLOOKUP or any lookup function. ]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="ast-oembed-container " style="height: 100%;"><iframe title="Which Lookup Function is Best? | Use Multiple Criteria in any Lookup | Work Smart Hub" width="1200" height="675" src="https://www.youtube.com/embed/rvy3eHjnfzY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<div class="ast-oembed-container " style="height: 100%;"><iframe loading="lazy" title="Which Lookup Function is Best? | Use Multiple Criteria in any Lookup | Work Smart Hub" width="1200" height="675" src="https://www.youtube.com/embed/rvy3eHjnfzY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 </div></figure>
 ]]></content:encoded>
 					
@@ -272,34 +299,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://sharaz1990.github.io/worksmartwithsharaz/python-automation/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Automate the Boring Stuff with Power Query</title>
-		<link>https://sharaz1990.github.io/worksmartwithsharaz/excel-automation/</link>
-					<comments>https://sharaz1990.github.io/worksmartwithsharaz/excel-automation/#respond</comments>
-		
-		<dc:creator><![CDATA[worksmartwithsharaz]]></dc:creator>
-		<pubDate>Wed, 06 Mar 2024 13:39:21 +0000</pubDate>
-				<category><![CDATA[All Tutorials]]></category>
-		<category><![CDATA[Excel Tutorials]]></category>
-		<category><![CDATA[datanalysis]]></category>
-		<category><![CDATA[datatransformation]]></category>
-		<category><![CDATA[excel]]></category>
-		<category><![CDATA[excelautomation]]></category>
-		<category><![CDATA[powerquery]]></category>
-		<guid isPermaLink="false">https://sharaz1990.github.io/worksmartwithsharaz/excel-automation/</guid>
-
-					<description><![CDATA[In this tutorial, we explore a smarter way to summarize data using Excel's Power Query. Say goodbye to manual data cleaning and transforming – automate your process with ease! 💼📊 ]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="ast-oembed-container " style="height: 100%;"><iframe loading="lazy" title="Excel Automation | Automate the Boring Stuff with Power Query | Work Smart Hub" width="1200" height="675" src="https://www.youtube.com/embed/EI5EPsdLrto?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
-</div></figure>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://sharaz1990.github.io/worksmartwithsharaz/excel-automation/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
