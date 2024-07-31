@@ -12,7 +12,7 @@
 	<atom:link href="https://sharaz1990.github.io/worksmartwithsharaz/category/excel/feed/" rel="self" type="application/rss+xml" />
 	<link>https://sharaz1990.github.io/worksmartwithsharaz/</link>
 	<description>Work Smart!</description>
-	<lastBuildDate>Sat, 27 Jul 2024 21:20:00 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 31 Jul 2024 15:07:52 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -45,7 +45,7 @@
 
 					<description><![CDATA[Curious about the difference between XLOOKUP and VLOOKUP? In this short video, we break down why XLOOKUP is superior and how to use it effectively. ]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-embed"></figure>
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"> <div class="ast-oembed-container " style="height: 100%;"><iframe title="XLOOKUP: The Ultimate Tool for Data Analysis | XLOOKUP vs VLOOKUP | Work Smart Hub" width="1200" height="675" src="https://www.youtube.com/embed/epL_B0vEv8Q?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div> </div></figure>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://sharaz1990.github.io/worksmartwithsharaz/xlookup-the-ultimate-tool-for-data-analysis/feed/</wfw:commentRss>
@@ -132,7 +132,7 @@
 					<description><![CDATA[In this comprehensive guide, we delve into the powerhouse Excel functions: IF, IFS, SWITCH, and XLOOKUP. Discover which formula reigns supreme for various scenarios through practical examples.]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="ast-oembed-container " style="height: 100%;"><iframe title="SWITCH vs. XLOOKUP vs. IFS vs. IF | Excel Formulas | Work Smart Hub" width="1200" height="675" src="https://www.youtube.com/embed/pFhfrV4NwgM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<div class="ast-oembed-container " style="height: 100%;"><iframe loading="lazy" title="SWITCH vs. XLOOKUP vs. IFS vs. IF | Excel Formulas | Work Smart Hub" width="1200" height="675" src="https://www.youtube.com/embed/pFhfrV4NwgM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 </div></figure>
 ]]></content:encoded>
 					
