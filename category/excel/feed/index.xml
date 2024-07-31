@@ -12,13 +12,13 @@
 	<atom:link href="https://sharaz1990.github.io/worksmartwithsharaz/category/excel/feed/" rel="self" type="application/rss+xml" />
 	<link>https://sharaz1990.github.io/worksmartwithsharaz/</link>
 	<description>Work Smart!</description>
-	<lastBuildDate>Wed, 17 Jul 2024 22:32:59 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 27 Jul 2024 21:20:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
 	<url>https://sharaz1990.github.io/worksmartwithsharaz/wp-content/uploads/2024/06/cropped-Work-Smart-Hub-Logo-No-backgroud-v2-120x120.png</url>
@@ -28,6 +28,32 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>XLOOKUP: The Ultimate Tool for Data Analysis</title>
+		<link>https://sharaz1990.github.io/worksmartwithsharaz/xlookup-the-ultimate-tool-for-data-analysis/</link>
+					<comments>https://sharaz1990.github.io/worksmartwithsharaz/xlookup-the-ultimate-tool-for-data-analysis/#respond</comments>
+		
+		<dc:creator><![CDATA[worksmartwithsharaz]]></dc:creator>
+		<pubDate>Sat, 27 Jul 2024 21:20:00 +0000</pubDate>
+				<category><![CDATA[All Tutorials]]></category>
+		<category><![CDATA[Excel Tutorials]]></category>
+		<category><![CDATA[dataanalysis]]></category>
+		<category><![CDATA[excel]]></category>
+		<category><![CDATA[vlookup]]></category>
+		<category><![CDATA[xlookup]]></category>
+		<category><![CDATA[xlookupvsvlookup]]></category>
+		<guid isPermaLink="false">https://sharaz1990.github.io/worksmartwithsharaz/?p=1804</guid>
+
+					<description><![CDATA[Curious about the difference between XLOOKUP and VLOOKUP? In this short video, we break down why XLOOKUP is superior and how to use it effectively. ]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed"></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://sharaz1990.github.io/worksmartwithsharaz/xlookup-the-ultimate-tool-for-data-analysis/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Create a Dynamic Calendar in Excel for Unlimited Years with a Single Formula</title>
 		<link>https://sharaz1990.github.io/worksmartwithsharaz/create-a-dynamic-calendar-in-excel-for-unlimited-years-with-a-single-formula/</link>
 					<comments>https://sharaz1990.github.io/worksmartwithsharaz/create-a-dynamic-calendar-in-excel-for-unlimited-years-with-a-single-formula/#respond</comments>
