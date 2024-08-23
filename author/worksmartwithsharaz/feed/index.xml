@@ -12,7 +12,7 @@
 	<atom:link href="https://sharaz1990.github.io/worksmartwithsharaz/author/worksmartwithsharaz/feed/" rel="self" type="application/rss+xml" />
 	<link>https://sharaz1990.github.io/worksmartwithsharaz/</link>
 	<description>Work Smart!</description>
-	<lastBuildDate>Wed, 31 Jul 2024 15:07:52 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 23 Aug 2024 02:24:35 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,32 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>5 Ways to Convert PDF to Excel (FREE &#038; PAID) &#124; Convert Excel to PDF&#124; Work Smart Hub</title>
+		<link>https://sharaz1990.github.io/worksmartwithsharaz/5-ways-to-convert-pdf-to-excel-free-paid-convert-excel-to-pdf-work-smart-hub/</link>
+					<comments>https://sharaz1990.github.io/worksmartwithsharaz/5-ways-to-convert-pdf-to-excel-free-paid-convert-excel-to-pdf-work-smart-hub/#respond</comments>
+		
+		<dc:creator><![CDATA[worksmartwithsharaz]]></dc:creator>
+		<pubDate>Fri, 23 Aug 2024 02:24:35 +0000</pubDate>
+				<category><![CDATA[All Tutorials]]></category>
+		<category><![CDATA[Computer, IT & Other Tutorials]]></category>
+		<category><![CDATA[Excel Tutorials]]></category>
+		<category><![CDATA[excel to pdf]]></category>
+		<category><![CDATA[pdf to excel]]></category>
+		<guid isPermaLink="false">https://sharaz1990.github.io/worksmartwithsharaz/?p=1808</guid>
+
+					<description><![CDATA[Want to easily convert PDF to Excel and Excel to PDF without losing formatting? In this video, we'll show you how to use free tools, Power Query, Adobe online converters, and more!]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="ast-oembed-container " style="height: 100%;"><iframe title="5 Ways to Convert PDF to Excel (FREE &amp; PAID) | Convert Excel to PDF| Work Smart Hub" width="1200" height="675" src="https://www.youtube.com/embed/yk1rViz1BiY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+</div></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://sharaz1990.github.io/worksmartwithsharaz/5-ways-to-convert-pdf-to-excel-free-paid-convert-excel-to-pdf-work-smart-hub/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>XLOOKUP: The Ultimate Tool for Data Analysis</title>
 		<link>https://sharaz1990.github.io/worksmartwithsharaz/xlookup-the-ultimate-tool-for-data-analysis/</link>
 					<comments>https://sharaz1990.github.io/worksmartwithsharaz/xlookup-the-ultimate-tool-for-data-analysis/#respond</comments>
@@ -101,7 +127,7 @@
 					<description><![CDATA[Learn how to create and host a FREE website using Local by Flywheel and GitHub without any coding! In this step-by-step tutorial, we'll show you how to make a website locally and then host it online for free.]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="ast-oembed-container " style="height: 100%;"><iframe title="Make your own Website FREE | Host a Free Website Locally with Flywheel and GitHub| Work Smart Hub" width="1200" height="675" src="https://www.youtube.com/embed/d2rB7y2xMHg?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<div class="ast-oembed-container " style="height: 100%;"><iframe loading="lazy" title="Make your own Website FREE | Host a Free Website Locally with Flywheel and GitHub| Work Smart Hub" width="1200" height="675" src="https://www.youtube.com/embed/d2rB7y2xMHg?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 </div></figure>
 ]]></content:encoded>
 					
@@ -270,33 +296,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://sharaz1990.github.io/worksmartwithsharaz/merge-data-2/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Combine Multiple Excel Files into One using Power Query</title>
-		<link>https://sharaz1990.github.io/worksmartwithsharaz/merge-data/</link>
-					<comments>https://sharaz1990.github.io/worksmartwithsharaz/merge-data/#respond</comments>
-		
-		<dc:creator><![CDATA[worksmartwithsharaz]]></dc:creator>
-		<pubDate>Fri, 15 Mar 2024 13:42:20 +0000</pubDate>
-				<category><![CDATA[All Tutorials]]></category>
-		<category><![CDATA[Excel Tutorials]]></category>
-		<category><![CDATA[automation]]></category>
-		<category><![CDATA[dataanalysis]]></category>
-		<category><![CDATA[excel]]></category>
-		<category><![CDATA[powerquery]]></category>
-		<guid isPermaLink="false">https://sharaz1990.github.io/worksmartwithsharaz/merge-data/</guid>
-
-					<description><![CDATA[Learn how to Merge different Excel files into one using POWER QUERY. Say goodbye to manual data consolidation and hello to efficiency!]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="ast-oembed-container " style="height: 100%;"><iframe loading="lazy" title="Merge Data | Combine Multiple Excel Files into One using Power Query | Work Smart Hub" width="1200" height="675" src="https://www.youtube.com/embed/HIeEEjM-bYs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
-</div></figure>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://sharaz1990.github.io/worksmartwithsharaz/merge-data/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
