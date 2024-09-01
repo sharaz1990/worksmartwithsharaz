@@ -12,7 +12,7 @@
 	<atom:link href="https://sharaz1990.github.io/worksmartwithsharaz/author/worksmartwithsharaz/feed/" rel="self" type="application/rss+xml" />
 	<link>https://sharaz1990.github.io/worksmartwithsharaz/</link>
 	<description>Work Smart!</description>
-	<lastBuildDate>Fri, 23 Aug 2024 02:24:35 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 29 Aug 2024 19:13:55 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,32 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Excel Cell Reference: Absolute vs Relative vs Mixed</title>
+		<link>https://sharaz1990.github.io/worksmartwithsharaz/excel-cell-reference-absolute-vs-relative-vs-mixed/</link>
+					<comments>https://sharaz1990.github.io/worksmartwithsharaz/excel-cell-reference-absolute-vs-relative-vs-mixed/#respond</comments>
+		
+		<dc:creator><![CDATA[worksmartwithsharaz]]></dc:creator>
+		<pubDate>Thu, 29 Aug 2024 19:13:01 +0000</pubDate>
+				<category><![CDATA[All Tutorials]]></category>
+		<category><![CDATA[Excel Tutorials]]></category>
+		<category><![CDATA[absolute vs relative reference]]></category>
+		<category><![CDATA[excel reference]]></category>
+		<category><![CDATA[lock cells in formulas]]></category>
+		<guid isPermaLink="false">https://sharaz1990.github.io/worksmartwithsharaz/?p=1812</guid>
+
+					<description><![CDATA[This video shows how to reference cells in Excel formulas using absolute, relative and mixed referencing. In normal language, we say how to lock cells using ($) dollar sign in a formula.]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="ast-oembed-container " style="height: 100%;"><iframe title="Lock ($) cells in Excel | Excel Cell Reference: Absolute vs Relative vs Mixed | Work Smart Hub" width="1200" height="675" src="https://www.youtube.com/embed/bRmWQ9mPIZs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+</div></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://sharaz1990.github.io/worksmartwithsharaz/excel-cell-reference-absolute-vs-relative-vs-mixed/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>5 Ways to Convert PDF to Excel (FREE &#038; PAID) &#124; Convert Excel to PDF&#124; Work Smart Hub</title>
 		<link>https://sharaz1990.github.io/worksmartwithsharaz/5-ways-to-convert-pdf-to-excel-free-paid-convert-excel-to-pdf-work-smart-hub/</link>
 					<comments>https://sharaz1990.github.io/worksmartwithsharaz/5-ways-to-convert-pdf-to-excel-free-paid-convert-excel-to-pdf-work-smart-hub/#respond</comments>
@@ -97,7 +123,7 @@
 					<description><![CDATA[Learn how to create a dynamic calendar in Excel for 2021, 2022, 2023, 2024, 2025, and beyond, using a single formula without any VBA coding. Including Task Planner and free Excel Template.]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="ast-oembed-container " style="height: 100%;"><iframe title="Create a Dynamic Calendar in Excel for Unlimited Years with a Single Formula | Work Smart Hub" width="1200" height="675" src="https://www.youtube.com/embed/TtOZ0tEwZ1A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<div class="ast-oembed-container " style="height: 100%;"><iframe loading="lazy" title="Create a Dynamic Calendar in Excel for Unlimited Years with a Single Formula | Work Smart Hub" width="1200" height="675" src="https://www.youtube.com/embed/TtOZ0tEwZ1A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 </div></figure>
 ]]></content:encoded>
 					
@@ -269,33 +295,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://sharaz1990.github.io/worksmartwithsharaz/excel-web-scraping/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Combine Multiple Excel Workbooks into One using Python</title>
-		<link>https://sharaz1990.github.io/worksmartwithsharaz/merge-data-2/</link>
-					<comments>https://sharaz1990.github.io/worksmartwithsharaz/merge-data-2/#respond</comments>
-		
-		<dc:creator><![CDATA[worksmartwithsharaz]]></dc:creator>
-		<pubDate>Sun, 31 Mar 2024 13:43:15 +0000</pubDate>
-				<category><![CDATA[All Tutorials]]></category>
-		<category><![CDATA[Python Tutorials]]></category>
-		<category><![CDATA[chatgpt]]></category>
-		<category><![CDATA[dataanalysis]]></category>
-		<category><![CDATA[nocode]]></category>
-		<category><![CDATA[python]]></category>
-		<guid isPermaLink="false">https://sharaz1990.github.io/worksmartwithsharaz/merge-data-2/</guid>
-
-					<description><![CDATA[Learn how to Merge different Excel files or workbooks into one using Python and ChatGPT. Say goodbye to manual merging and hello to efficiency! 💻📊]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="ast-oembed-container " style="height: 100%;"><iframe loading="lazy" title="Merge Data | Combine Multiple Excel Workbooks into One using Python | Work Smart Hub" width="1200" height="675" src="https://www.youtube.com/embed/-G0OyDb0jXs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
-</div></figure>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://sharaz1990.github.io/worksmartwithsharaz/merge-data-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
